@@ -1,0 +1,10 @@
+{
+	"id": "review-today-------8b1042cc-1cad-46dd-9bb4-5ce212241f3f",
+	"name": "Review today ",
+	"version": "1.1.0",
+	"minAppVersion": "0.15.0",
+	"description": "打开今天创建的笔记",
+	"author": "Chen Bao",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}
